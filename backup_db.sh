@@ -1,4 +1,5 @@
 #! /bin/sh
+# home: https://github.com/biow0lf/redmine_backup
 # based on http://bash.cyberciti.biz/backup/backup-mysql-database-server-2/
 
 MYSQLUSER="user"         # MySQL user name
