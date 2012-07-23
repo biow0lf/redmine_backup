@@ -1,4 +1,5 @@
 #! /bin/sh
+# home: https://github.com/biow0lf/redmine_backup
 
 REDMINE_PATH="/home/user/work"
 REDMINE_DIR="redmine-2.0.3"
